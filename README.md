@@ -16,29 +16,6 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 ## 📢 Talks
 - Codemotion Madrid 2023: *Representa tu negocio en código* (with @danielramosacosta) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk)
 
-## 🗃️ Projects
-
-### Fintechs 💰
-I contributed to a unicorn fintech startup that successfully secured multiple Series-B funding rounds. My role was transversal, focused on developing tools and libraries to enhance the speed and agility of other teams.
-
-During this time, I promoted good practices such as reducing mocks for third-party libraries, applying dependency inversion or adopting repository pattern for cleaner code. I also led the shift from MVC to Clean Architecture and improved testing strategies.
-
-### Ecommerces 🛒
-I have worked on several projects related with e-commerce platforms related with customized meal plans for pets. Using a confidential formula, I developed specific plans for pets taking into account pet's charachteristics and breed, supporting both one-time purchases and recurring payments.
-
-As this project was built up from scracth, it was covered by a robust battery of unit, integration and e2e tests while using clean architechture and also Domain Driven Design.
-
-###  Learning platforms 🧑‍🏫
-I have worked for a big corporate engineering firm's learning platform. This project was built from scracth and allows the Human Resource department doing an exhaustive Training Need Analysis and elaborate a plan for improving employees skills. The platform leveraged AI to suggest courses based on their content.
-
-One of the key challenges was implementing dynamic course and resource visibility based on user profiles. Additionally, I developed an integration with Workday to retrieve and map data for over 60.000 employees within the learning system.
-
-
-### Institutional webs 🏛️
-I have worked on projects to enhance existing institutional webs improving loading times. In this case I made up a proxy backend that implements an ETL process to gather information from different API's, discard, select and persist it for further use.
-
-This process runs continuously, caching fresh data from multiple APIs in a Redis database to ensure quick access and optimal performance.
-
 ## ⚡ Technologies I've worked
 <p align="center">
 <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&labelColor=black&color=3178C6" />
