@@ -7,14 +7,14 @@ I'm a Computer Scientist and Software Engineer living in Tenerife, Canary Island
 With over 4 years of experience as a Backend Developer, I’ve also taken on responsibilities in project management and squad leadership. Below, you’ll find more details about my work and expertise.
 
 ## 🙋🏽‍♂️ About me
-- 🎯 *Passionate about:* Software architecture and writing clean, readable code.
-- 🧪 *Development approach:* Advocating for robust testing practices like the testing pyramid and TDD—no testing in production!
-- 💬 *Expertise:* Happy to discuss TypeScript, NestJS, Express, PostgreSQL, Domain-Driven Design (DDD), or Hexagonal Architecture.
-- 🌱 *Learning:* Exploring the frontend side of development to broaden my skill set.
-- ⚡ *Fun fact:*  I enjoy playing sports, mentoring colleagues, and sharing knowledge through tech talks.
+- 🎯 **Passionate about:** Software architecture and writing clean, readable code.
+- 🧪 **Development approach:** Advocating for robust testing practices like the testing pyramid and TDD—no testing in production!
+- 💬 **Expertise:** Happy to discuss TypeScript, NestJS, Express, PostgreSQL, Domain-Driven Design (DDD), or Hexagonal Architecture.
+- 🌱 **Learning:** Exploring the frontend side of development to broaden my skill set.
+- ⚡ **Fun fact:**  I enjoy playing sports, mentoring colleagues, and sharing knowledge through tech talks.
 
 ## 📢 Talks
-- Codemotion Madrid 2023: **Representa tu negocio en código** (with @danielramosacosta) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk)
+- Codemotion Madrid 2023: *Representa tu negocio en código* (with @danielramosacosta) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk)
 
 ## 🗃️ Projects
 
@@ -28,15 +28,16 @@ I have worked on several projects related with e-commerce platforms related with
 
 As this project was built up from scracth, it was covered by a robust battery of unit, integration and e2e tests while using clean architechture and also Domain Driven Design.
 
-### Institutional webs 🏛️
-I have worked on projects to enhance existing institutional webs improving loading times. In this case I made up a proxy backend that implements an ETL process to gather information from different API's, discard, select and persist it for further use.
-
-This process runs continuously, caching fresh data from multiple APIs in a Redis database to ensure quick access and optimal performance.
-
 ###  Learning platforms 🧑‍🏫
 I have worked for a big corporate engineering firm's learning platform. This project was built from scracth and allows the Human Resource department doing an exhaustive Training Need Analysis and elaborate a plan for improving employees skills. The platform leveraged AI to suggest courses based on their content.
 
 One of the key challenges was implementing dynamic course and resource visibility based on user profiles. Additionally, I developed an integration with Workday to retrieve and map data for over 60.000 employees within the learning system.
+
+
+### Institutional webs 🏛️
+I have worked on projects to enhance existing institutional webs improving loading times. In this case I made up a proxy backend that implements an ETL process to gather information from different API's, discard, select and persist it for further use.
+
+This process runs continuously, caching fresh data from multiple APIs in a Redis database to ensure quick access and optimal performance.
 
 ## ⚡ Technologies I've worked
 <p align="center">
