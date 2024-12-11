@@ -1,10 +1,18 @@
 ## Hello World <img src="./assets/wave.gif" width="30px">, I'm Alberto González
 
-<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=22&letterSpacing=&duration=4000&pause=50&color=FFC419&background=FFFFFF00&center=false&vCenter=true&random=true&width=435&weight=450&lines=Software+Engineer+👷;Backend+specialist+✨;Architecture+advocate+📐;Project+management+📋" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=22&letterSpacing=&duration=4000&pause=50&color=FFC419&background=FFFFFF00&center=false&vCenter=true&random=true&width=435&weight=450&lines=Software+Engineer+👷;Backend+developer+✨;Architecture+advocate+📐;Project+management+📋" />
 
 I'm a Computer Scientist and Software Engineer living in Tenerife, Canary Islands 🇮🇨
 
-With over 4 years of experience as a Backend Developer, I’ve also taken on responsibilities in project management and squad leadership. Below, you’ll find more details about my work and expertise.
+With over 4 years of experience as a Backend Developer, I’ve also taken on responsibilities in Project Management and squad leadership. Below, you’ll find more details about my work and expertise.
+
+<p>
+  <a href="https://ishortn.ink/zUDwYVTuJ"><img src="https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=linkedin&labelColor=black&color=0A66C2" /></a>
+  <a href="https://github.com/AlbertoGonzalezAlvarez"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&labelColor=black&color=181717" /></a>
+  <a href="https://t.me/albertogonzalezalvarez"><img src="https://img.shields.io/badge/-Telegram-000000?style=flat-square&logo=Telegram&labelColor=black&color=26A5E4" /></a>
+  <a href="https://x.com/AlberGlez_"><img src="https://img.shields.io/badge/-X-000000?style=flat-square&logo=X&labelColor=black&color=000000" /></a>
+</p>
 
 ## 🙋🏽‍♂️ About me
 - 🎯 **Passionate about:** Software architecture and writing clean, readable code.
@@ -16,7 +24,7 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 ## 📢 Talks
 - Codemotion Madrid 2023: *Representa tu negocio en código* (with [@danielramosacosta](https://github.com/DanielRamosAcosta)) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk) - [Slides](https://ishortn.ink/XXYlzJ52R)
 
-## ⚡ Technologies I've worked
+## ⚡ Technologies I've worked with
 <p align="center">
 <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&labelColor=black&color=3178C6" />
 <img src="https://img.shields.io/badge/-javascript-000000?style=for-the-badge&logo=javascript&labelColor=black&color=F7DF1E" />
@@ -31,7 +39,6 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 <img src="https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&labelColor=black&color=47A248" />
 <img src="https://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=nextdotjs&labelColor=black&color=000000" />
 <img src="https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react&labelColor=black&color=61DAFB" />
-
 
 <img src="https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql&labelColor=black&color=4169E1" />
 <img src="https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb&labelColor=black&color=47A248" />
