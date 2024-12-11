@@ -48,7 +48,7 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 </p>
 
 <details> 
-  <summary><h2>🗃️ Some interesting projects</h2></summary>
+  <summary><h2>📘 Some interesting projects</h2></summary>
 
 <h3>Fintechs 💰</h3>
 I contributed to a unicorn fintech startup that successfully secured multiple Series-B funding rounds. My role was transversal, focused on developing tools and libraries to enhance the speed and agility of other teams.
