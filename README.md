@@ -1,6 +1,6 @@
 ## Hello World <img src="./assets/wave.gif" width="30px">, I'm Alberto González
 
-<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=22&letterSpacing=&duration=4000&pause=50&color=FFC419&background=FFFFFF00&center=false&vCenter=true&random=true&width=435&weight=450&lines=Software+Engineer+👷;Backend+specialist+✨;Architecture+advocate+📐;Project+management+📋" /> 
+<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=22&letterSpacing=&duration=4000&pause=50&color=FFC419&background=FFFFFF00&center=false&vCenter=true&random=true&width=435&weight=450&lines=Software+Engineer+👷;Backend+specialist+✨;Architecture+advocate+📐;Project+management+📋" />
 
 I'm a Computer Scientist and Software Engineer living in Tenerife, Canary Islands 🇮🇨
 
@@ -13,10 +13,10 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 - 🌱 **Learning:** Exploring the frontend side of development to broaden my skill set.
 - ⚡ **Fun fact:**  I enjoy playing sports, mentoring colleagues, and sharing knowledge through tech talks.
 
-## 📢 Talks
+## 📢 Talks
 - Codemotion Madrid 2023: *Representa tu negocio en código* (with @danielramosacosta) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk)
 
-## 🗃️ Projects
+## 🗃️ Projects
 
 ### Fintechs 💰
 I contributed to a unicorn fintech startup that successfully secured multiple Series-B funding rounds. My role was transversal, focused on developing tools and libraries to enhance the speed and agility of other teams.
