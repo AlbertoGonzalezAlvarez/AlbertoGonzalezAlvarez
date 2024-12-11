@@ -14,7 +14,7 @@ With over 4 years of experience as a Backend Developer, I’ve also taken on res
 - ⚡ **Fun fact:**  I enjoy playing sports, mentoring colleagues, and sharing knowledge through tech talks.
 
 ## 📢 Talks
-- Codemotion Madrid 2023: *Representa tu negocio en código* (with @danielramosacosta) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk)
+- Codemotion Madrid 2023: *Representa tu negocio en código* (with [@danielramosacosta](https://github.com/DanielRamosAcosta)) - [Repo](https://github.com/AlbertoGonzalezAlvarez/codetalk) - [Slides](https://ishortn.ink/XXYlzJ52R)
 
 ## ⚡ Technologies I've worked
 <p align="center">
