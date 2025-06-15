@@ -1,8 +1,5 @@
 ## Hello World <img src="./assets/wave.gif" width="30px">, I'm Alberto González
 
-
-<img src="https://readme-typing-svg.demolab.com/?font=Raleway&size=22&letterSpacing=&duration=4000&pause=50&color=FFC419&background=FFFFFF00&center=false&vCenter=true&random=true&width=435&weight=450&lines=Software+Engineer+👷;Backend+developer+✨;Architecture+advocate+📐;Project+management+📋" />
-
 I'm a Computer Scientist and Software Engineer living in Tenerife, Canary Islands 🇮🇨
 
 With over 4 years of experience as a Backend Developer, I’ve also taken on responsibilities in Project Management and squad leadership. Below, you’ll find more details about my work and expertise.
